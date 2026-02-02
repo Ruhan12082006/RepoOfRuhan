@@ -30,6 +30,7 @@
             <td> $g3 </td>
         </tr>
     </table>";
+    echo "<img width = 700px src= \"./Screenshot (10).png\" >";
     ?>
 </body>
 </html>
