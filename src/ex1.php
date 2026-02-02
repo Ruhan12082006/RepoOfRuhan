@@ -1,6 +1,18 @@
 <html>
-<body>
+    <style>
+    table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 1px;
+    }
 
+    tr, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    }
+    </style>
+<body>
     <?php
     echo "<h3> Hello world! My name is \"David\" </h3>";
     $title ="PHP is interesting.";
@@ -30,7 +42,7 @@
             <td> $g3 </td>
         </tr>
     </table>";
-    echo "<img width = 700px src= \"./Screenshot (10).png\" >";
+    echo "<img width = 700px src= \"./Screenshot (12).png\" >";
     ?>
 </body>
 </html>
